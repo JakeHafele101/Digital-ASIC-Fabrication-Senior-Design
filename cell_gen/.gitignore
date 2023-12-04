@@ -1,0 +1,6 @@
+*.gds
+*.lef
+*.spice
+*.ext
+*.tcl
+*.mag
